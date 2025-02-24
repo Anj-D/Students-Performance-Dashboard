@@ -11,7 +11,7 @@ This project analyzes student test scores using Power BI to identify factors inf
 * Here are some snaps of the analysis-
 * 
 
-# Recommendation
+# Recommendations
 * **Increase math tutoring hours** for grades **9** and **12**, as grades 10 and 11 are currently receiving a disproportionate share of tutoring time.
 * **Wyoming** is the top-performing state; its model should be analyzed and replicated in other states
 * **Sports** is the most effective extracurricular activity, contributing to consistent performance in both math and reading. In contrast, **debate participants** excel in math but underperform in reading, skewing overall results.
@@ -20,5 +20,5 @@ This project analyzes student test scores using Power BI to identify factors inf
 # Tech Stack & Methodology
 * **Power BI**: Data visualization & dashboard creation
 * **DAX:** Custom measures & calculated columns for insights
-* **Power Query:** Data transformation & cleaning
+* **Power Query:** For data transformation & cleaning
 * **Data Modeling:** Relationship building for analysis
